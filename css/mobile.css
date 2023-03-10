@@ -1,0 +1,38 @@
+@media screen and (min-width: 480px) {
+.container {
+   max-width: 428px;
+} 
+/* -----------------header---------------- */
+.header > .container {
+   /* min-width: 100%; */
+}
+/* -----------------hero---------------- */
+/* .hero-title {
+   font-size: 36px;
+   line-height: 1.11;
+   text-align: center;
+   letter-spacing: 0.02em;
+   text-transform: capitalize;
+} */
+
+/* -----------------about---------------- */
+
+/* -----------------team---------------- */
+.team > .container {
+max-width: 294px; 
+/* padding-left: 82px;
+padding-right: 82px; */
+}
+/* -----------------footer---------------- */
+
+.subscribe-input {
+   max-width: 396px;
+}
+/* -----------------modal---------------- */
+ .modal {
+   width: 392px;
+ }
+ .modal-field {
+      margin-bottom: 24px;
+    }
+}
