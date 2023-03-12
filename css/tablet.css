@@ -151,7 +151,7 @@ display: flex;
     row-gap: 72px;
 }
 
-.customers-items {
+.logo-customer {
     width: calc((100% - 48px) / 3);
 }
 
